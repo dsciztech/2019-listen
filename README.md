@@ -1,4 +1,1 @@
-# Credit of 2019
-This document lists the people that actively contributed to this team during the term of 2019-2020.
-## Team
-- Kutlay KIZIL
+listen
